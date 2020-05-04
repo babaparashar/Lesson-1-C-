@@ -1,0 +1,5 @@
+C:\Users\sachin\Downloads\ig\AccountsReceivable\bin\Debug\AccountsReceivable.dll
+C:\Users\sachin\Downloads\ig\AccountsReceivable\bin\Debug\AccountsReceivable.pdb
+C:\Users\sachin\Downloads\ig\AccountsReceivable\obj\Debug\AccountsReceivable.csprojAssemblyReference.cache
+C:\Users\sachin\Downloads\ig\AccountsReceivable\obj\Debug\AccountsReceivable.dll
+C:\Users\sachin\Downloads\ig\AccountsReceivable\obj\Debug\AccountsReceivable.pdb
